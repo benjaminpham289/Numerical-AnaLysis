@@ -1,0 +1,8 @@
+Luu tat ca cac file .m tren vao thu muc bin cua matlap
+Khoi dong matlab
+- Dang tuyen tinh: Bat binh_phuong_toi_tieu_tuyen_tinh.m --> An F5 --> Thuc hien theo huong dan tren man hinh
+- Dang sin,cos: Bat binh_phuong_toi_tieu_sin.m --> An F5 --> Thuc hien theo huong dan
+- Dang y=a.e^bx: Bat binh_phuong_toi_tieu_aebx.m --> An F5 --> Thuc hien theo huong dan
+- Dang y=a.x^b: Bat binh_phuong_toi_tieu_axb.m --> An F5 --> Thuc hien theo huong dan
+
+Note: Khong chay file binh_phuong_toi_tieu_bac1.m vi no chi dung de phuc vu 2 dang cuoi cung

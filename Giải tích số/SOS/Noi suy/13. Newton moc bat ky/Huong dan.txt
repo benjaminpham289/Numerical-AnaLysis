@@ -1,0 +1,6 @@
+- Nhap ma tran cac gia tri cua x
+Vi du: X = [0 1/6 1/2]
+- Nhap ma tran cac gia tri cua y
+Vi du: Y = [0 1/2 1]
+- Nhap lenh f=vpa (expand(newton(x,y)),4)
+Co the thay doi so 4 thanh 6,7,... neu muon thay doi so chu so co nghia

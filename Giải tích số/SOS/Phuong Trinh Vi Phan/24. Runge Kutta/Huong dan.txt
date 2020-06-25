@@ -1,0 +1,25 @@
+RK_bac2: Dung phuong phap Runge-Kutta bac 4 giai phuong trinh vi phan bac 2 dang
+         y''=g(x,y,y') 
+         Ham g nhap vao can co dang : g(x,y,y1) voi y1=y'
+         y0 = [y(x0) y'(x0)]
+         n : So buoc lap
+         x1: Can tinh gia tri y(x) tai vi tri x1
+
+RK_bac2_chosaiso: giong RK_bac2 nhung cho sai so ban dau
+
+Rk_bac2_phu: File phu, k quan tam
+
+RK_chobuoclap: Tinh gia tri y(x1) tu phuong trinh vi phan cap 1 y'=f(x,y) bang phuong phap Runghe-Kutta bac 4
+               f = f(x,y)
+               y0=y(x0) la gia tri cua y tai vi tri x0 cho truoc
+               n la so buoc lap
+
+RK_chobuoclap_phu: File phu khong quan tam
+
+RK_chosaiso: Giong RK_chobuoclap nhung cho sai so
+
+RK_he2phuongtrinh : Dung phuong phap Runge-Kutta bac 4 giai he 2 phuong trinh vi phan dang
+                    y'=f(x,y,z) z'=g(x,y,z) 
+                    y0=y(x0) z0=z(x0) 
+                    n : So buoc lap
+                    x1: Can tinh gia tri y(x) va z(x) tai vi tri x1
